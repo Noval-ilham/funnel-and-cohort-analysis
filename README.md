@@ -1,4 +1,4 @@
-# Funnel and Cohort Analysis in Power BI
+# Funnel and Cohort Analysis
 
 ## Project Overview
 This repository presents an end to end customer acquisition and retention analysis built in Power BI. By combining Funnel Analysis and Cohort Analysis, this project identifies conversion bottlenecks across customer segments, evaluates monthly retention patterns, and translates data insights into actionable business growth strategies.
